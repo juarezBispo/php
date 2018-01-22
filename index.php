@@ -1,5 +1,5 @@
 <?php
 	echo "Bem vindo!Juquinha";
-	echo "Tudo Bem!;
+	echo "Tudo Bem! Mudei tudo agora;
 
 ?>
